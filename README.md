@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud BanyAmer</h1>
 <h3 align="center">Web Developer from Jordan, Bridging Ideas with Code</h3>
+<img  align="right"  width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47f89jwnqokt4iotxekugessfvytsjpamwj60qgakn&ep=v1_gifs_search&rid=giphy.gif&ct=g"></img>
 
 - 🌱 I’m currently learning **NextJs**
 
